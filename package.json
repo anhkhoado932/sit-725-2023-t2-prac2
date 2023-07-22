@@ -1,0 +1,17 @@
+{
+  "name": "sit-725-2023-t2-prac2",
+  "version": "1.0.0",
+  "description": "practice code for second week",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Do Anh Khoa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
